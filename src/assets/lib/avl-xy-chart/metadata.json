@@ -1,0 +1,11 @@
+{
+  "elementTag": "avl-xy-chart",
+  "friendlyName": "Xy Chart",
+  "description": "Graphical representation of data",
+  "webComponent": true,
+  "angular": false,
+  "material": false,
+  "desktop": false,
+  "incubating": true,
+  "group": "chart"
+}
